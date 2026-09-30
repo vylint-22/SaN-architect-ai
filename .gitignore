@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated output
+output/
+*.ifc
+
+# Project data (keep sample files only)
+data/*.dxf
+data/*.dwg
+data/*.json
+!data/sample_*.dxf
+!data/sample_*.json
+
+# Config with real project layer names (keep example only)
+config/layer_config.yaml
+
+# Debug/visualization artifacts
+comparison.png
+png/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
