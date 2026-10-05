@@ -1,4 +1,4 @@
-# dwg2ifc
+SaN#
 
 Convert a 2D architectural DWG floor plan into a clean IFC file ready for import
 into [DIALux EVO](https://www.dialux.com/) — automating the manual wall/window/door
